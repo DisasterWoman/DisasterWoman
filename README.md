@@ -1,5 +1,5 @@
 ### Hi guys👋
-I'm Alice. I am a tech enthusiast and open source advocate. I am always open to collaborating on projects and innovative/breakthrough ideas. 
+I'm Alice. 
 
 📚 Frameworks, Platforms and Libraries
 
